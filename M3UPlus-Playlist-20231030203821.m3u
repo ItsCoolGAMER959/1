@@ -1,0 +1,185 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/dqr6yw4v6pf91477nx1w"
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17153_dark_360w_270h.png" group-title="(no group)",BBC One 
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17154_dark_360w_270h.png" group-title="(no group)",BBC Two
+https://helpfulpost.net/bbctwo/index.m3u8
+#EXTINF:-1 tvg-id="ITV1(West).uk" tvg-name="ITV 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24289_dark_360w_270h.png" group-title="(no group)",ITV 1
+http://92.114.85.81:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="STV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68033_dark_360w_270h.png" group-title="(no group)",STV
+https://csm-e-ces1aeuw1live102-083090b15a93b4fdd.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&yo.oh=Y3NtLWUtc3R2LWViLnRsczEueW9zcGFjZS5jb20=
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="UTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68073_dark_360w_270h.png" group-title="(no group)",UTV
+http://92.114.85.81:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50716_dark_360w_270h.png" group-title="(no group)",Channel 4
+http://92.114.85.77:8000/play/a0b9
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25342_dark_360w_270h.png" group-title="(no group)",S4C
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50717_dark_360w_270h.png" group-title="(no group)",Channel 5
+https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20630_dark_360w_270h.png" group-title="(no group)",ITV 2
+http://92.114.85.77:8000/play/a041
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="BBC Alba" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60940_dark_360w_270h.png" group-title="(no group)",BBC Alba
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83282_dark_360w_270h.png" group-title="(no group)",BBC Four
+https://helpfulpost.net/bbcfour/index.m3u8
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110540_dark_360w_270h.png" group-title="(no group)",BBC Scotland
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69374_dark_360w_270h.png" group-title="(no group)",ITV 3
+http://92.114.85.77:8000/play/a04z
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49612_dark_360w_270h.png" group-title="(no group)",Sky Arts
+http://92.114.85.62:8000/play/a00a
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest UK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62391_dark_360w_270h.png" group-title="(no group)",Quest UK
+http://92.114.85.81:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25117_dark_360w_270h.png" group-title="(no group)",E4
+http://92.114.85.81:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68051_dark_360w_270h.png" group-title="(no group)",Film4
+http://92.114.85.81:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="QVC.uk" tvg-name="QVC UK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125129_dark_360w_270h.png" group-title="(no group)",QVC UK
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-id="Really(src01).uk" tvg-name="Really" tvg-logo="" group-title="(no group)",Really
+http://92.114.85.80:8000/play/a04x
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47657_dark_360w_270h.png" group-title="(no group)",More4
+http://92.114.85.81:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24305_dark_360w_270h.png" group-title="(no group)",Dave
+http://92.114.85.81:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82575_dark_360w_270h.png" group-title="(no group)",Drama
+http://92.114.85.81:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52335_dark_360w_270h.png" group-title="(no group)",5USA
+http://92.114.85.81:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="TJC(src01).uk" tvg-name="TJC" tvg-logo="" group-title="(no group)",TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122089_dark_360w_270h.png" group-title="(no group)",BBC Three
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="W.uk" tvg-name="W" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61458_dark_360w_270h.png" group-title="(no group)",W
+http://92.114.85.81:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48020_dark_360w_270h.png" group-title="(no group)",ITV 4
+http://92.114.85.77:8000/play/a05z
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31783_dark_360w_270h.png" group-title="(no group)",Yesterday
+http://92.114.85.81:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-id="ITVBE.uk" tvg-name="ITVBe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90257_dark_360w_270h.png" group-title="(no group)",ITVBe
+http://92.114.85.77:8000/play/a09h
+#EXTINF:-1 tvg-id="E4Extra.uk" tvg-name="E4 Extra" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31786_dark_360w_270h.png" group-title="(no group)",E4 Extra
+http://92.114.85.81:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="5Star.uk" tvg-name="5Star" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52336_dark_360w_270h.png" group-title="(no group)",5Star
+http://92.114.85.81:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5Action" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109246_dark_360w_270h.png" group-title="(no group)",5Action
+http://92.114.85.81:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="GREATmovies.uk" tvg-name="Great! Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81450_dark_360w_270h.png" group-title="(no group)",Great! Movies
+http://92.114.85.81:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="SkyMix.uk" tvg-name="Sky Mix" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48021_dark_360w_270h.png" group-title="(no group)",Sky Mix
+http://92.114.85.79:8000/play/a0c7
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-name="DMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58793_dark_360w_270h.png" group-title="(no group)",DMAX
+http://92.114.85.81:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="Quest Red" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102471_dark_360w_270h.png" group-title="(no group)",Quest Red
+http://92.114.85.81:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="Legend.uk" tvg-name="Legend" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73970_dark_360w_270h.png" group-title="(no group)",Legend
+http://92.114.85.81:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46306_dark_360w_270h.png" group-title="(no group)",Great! Action
+http://92.114.85.81:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="(no group)",Food Network UK
+http://92.114.85.79:8000/play/a0ci
+#EXTINF:-1 tvg-id="HGTV.uk" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png" group-title="(no group)",HGTV
+http://92.114.85.81:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="GemsTV.uk" tvg-name="GemsTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s27993_dark_360w_270h.png" group-title="(no group)",GemsTV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-name="5Select" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56888_dark_360w_270h.png" group-title="(no group)",5Select
+http://92.114.85.81:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="Challenge(src01).uk" tvg-name="Challenge" tvg-logo="" group-title="(no group)",Challenge
+http://92.114.85.80:8000/play/a03s
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4seven" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75804_dark_360w_270h.png" group-title="(no group)",4seven
+http://92.114.85.80:8000/play/a01a
+#EXTINF:-1 tvg-id="GREATtv.uk" tvg-name="Great! TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57747_dark_360w_270h.png" group-title="(no group)",Great! TV
+http://92.114.85.81:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="IdealWorld.uk" tvg-name="Ideal World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24669_dark_360w_270h.png" group-title="(no group)",Ideal World
+https://www.youtube.com/@IdealWorldTV/live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Great! Christmas" tvg-logo="" group-title="(no group)",Great! Christmas
+http://92.114.85.79:8000/play/a06i
+#EXTINF:-1 tvg-id="BLAZE.uk" tvg-name="Blaze" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101972_dark_360w_270h.png" group-title="(no group)",Blaze
+http://92.114.85.77:8000/play/a0ak
+#EXTINF:-1 tvg-id="Thats60s.uk" tvg-name="That's 60s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s129634_dark_360w_270h.png" group-title="(no group)",That's 60s
+http://92.114.85.79:8000/play/a0bq
+#EXTINF:-1 tvg-id="TBNUK.uk" tvg-name="TBN UK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97332_dark_360w_270h.png" group-title="(no group)",TBN UK
+http://92.114.85.79:8000/play/a08g
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBS reality UK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31756_dark_360w_270h.png" group-title="(no group)",CBS reality UK
+http://92.114.85.81:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="RealityXtra.uk" tvg-name="RealityXtra" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57827_dark_360w_270h.png" group-title="(no group)",RealityXtra
+http://92.114.85.81:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="HorrorXtra.uk" tvg-name="HorrorXtra" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42762_dark_360w_270h.png" group-title="(no group)",HorrorXtra
+http://92.114.85.81:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="Thats70s(src01).uk" tvg-name="That's 70s" tvg-logo="" group-title="(no group)",That's 70s
+http://92.114.85.81:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="JewelleryMaker.uk" tvg-name="Jewellery Maker" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29067_dark_360w_270h.png" group-title="(no group)",Jewellery Maker
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HobbyMaker(src01).uk" tvg-name="Hobby Maker" tvg-logo="" group-title="(no group)",Hobby Maker
+https://lo2-1.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Thats80s.uk" tvg-name="That's 80s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131027_dark_360w_270h.png" group-title="(no group)",That's 80s
+http://92.114.85.81:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="EarthxTV.uk" tvg-name="EarthXTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s126472_dark_360w_270h.png" group-title="(no group)",EarthXTV
+http://92.114.85.81:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="TalkingPicturesTV.uk" tvg-name="Talking Pictures TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99024_dark_360w_270h.png" group-title="(no group)",Talking Pictures TV
+http://92.114.85.79:8000/play/a0bt
+#EXTINF:-1 tvg-id="Together.uk" tvg-name="Together TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24677_dark_360w_270h.png" group-title="(no group)",Together TV
+http://92.114.85.80:8000/play/a03r
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73510_dark_360w_270h.png" group-title="(no group)",PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CreateandCraft.uk" tvg-name="Create & Craft" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79940_dark_360w_270h.png" group-title="(no group)",Create & Craft
+https://live-hochanda.simplestreamcdn.com/live2/hochanda/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83281_dark_360w_270h.png" group-title="(no group)",CBBC
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83283_dark_360w_270h.png" group-title="(no group)",CBeebies
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="Pop.uk" tvg-name="Pop" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33638_dark_360w_270h.png" group-title="(no group)",Pop
+http://92.114.85.81:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34087_dark_360w_270h.png" group-title="(no group)",Tiny Pop
+http://92.114.85.81:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="PopMax.uk" tvg-name="Pop Max" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56896_dark_360w_270h.png" group-title="(no group)",Pop Max
+https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19037_dark_360w_270h.png" group-title="(no group)",BBC News
+http://92.114.85.81:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20685_dark_360w_270h.png" group-title="(no group)",BBC Parliament
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16234_dark_360w_270h.png" group-title="(no group)",Sky News
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118853_dark_360w_270h.png" group-title="(no group)",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="TalkTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122614_dark_360w_270h.png" group-title="(no group)",TalkTV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+#EXTINF:-1 tvg-id="AriseNews.uk" tvg-name="Arise News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118331_dark_360w_270h.png" group-title="(no group)",Arise News
+https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
+#EXTINF:-1 tvg-id="CourtTV.uk" tvg-name="Court TV UK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117160_dark_360w_270h.png" group-title="(no group)",Court TV UK
+http://92.114.85.79:8000/play/a0bb
+#EXTINF:-1 tvg-id="SportystuffTV.uk" tvg-name="SportyStuff TV" tvg-logo="" group-title="(no group)",SportyStuff TV
+https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="4Music" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26084_dark_360w_270h.png" group-title="(no group)",4Music
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
+#EXTINF:-1 tvg-id="TheBox.uk" tvg-name="The Box" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21492_dark_360w_270h.png" group-title="(no group)",The Box
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/
+#EXTINF:-1 tvg-id="Kiss.uk" tvg-name="KISS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25151_dark_360w_270h.png" group-title="(no group)",KISS
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
+#EXTINF:-1 tvg-id="Magic.uk" tvg-name="Magic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25607_dark_360w_270h.png" group-title="(no group)",Magic
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fmagic%2F&spotxc1=195996&spotxc2=190878
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25627_dark_360w_270h.png" group-title="(no group)",Kerrang!
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Inspiration TV UK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46219_dark_360w_270h.png" group-title="(no group)",Inspiration TV UK
+http://92.114.85.77:8000/play/a0am
+#EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="QVC Beauty" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29693_dark_360w_270h.png" group-title="(no group)",QVC Beauty
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="QVCExtra.uk" tvg-name="QVC Extra" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116569_dark_360w_270h.png" group-title="(no group)",QVC Extra
+https://live-qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="QVCStyle.uk" tvg-name="QVC Style" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98903_dark_360w_270h.png" group-title="(no group)",QVC Style
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="TraceVault(src01).uk" tvg-name="Trace Vault" tvg-logo="" group-title="(no group)",Trace Vault
+http://92.114.85.79:8000/play/a09n
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110745_dark_360w_270h.png" group-title="(no group)",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s108488_dark_360w_270h.png" group-title="(no group)",Now 80s
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NowRock.uk" tvg-name="Now Rock" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110742_dark_360w_270h.png" group-title="(no group)",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ClublandTV(src01).uk" tvg-name="Clubland TV" tvg-logo="" group-title="(no group)",Clubland TV
+http://92.114.85.79:8000/play/a0cx
+#EXTINF:-1 tvg-id="CraftExtra(src01).uk" tvg-name="Craft Extra" tvg-logo="" group-title="(no group)",Craft Extra
+http://92.114.85.79:8000/play/a0df
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC World News" tvg-logo="" group-title="(no group)",BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="BBCWorldService.uk" tvg-name="BBC World Service" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24448_dark_360w_270h.png" group-title="(no group)",BBC World Service
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
